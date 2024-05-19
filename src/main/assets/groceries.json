@@ -1,0 +1,36 @@
+{
+  "groceries":[
+    {
+
+      "type":"Fruits",
+      "item1":"Banana",
+      "price1": 25,
+      "imgId1": "banana",
+      "item2": "Blueberries",
+      "price2": 50,
+      "imgId2": "blueberries"
+    },
+
+    {
+
+      "type":"Vegetables",
+      "item1":"Potatoes",
+      "price1": 10,
+      "imgId1": "potatoes",
+      "item2": "Spinach",
+      "price2": 15,
+      "imgId2": "spinach"
+    },
+    {
+
+      "type":"Dairy",
+      "item1":"Lactose-Free Milk",
+      "price1": 25,
+      "imgId1": "lfmilk",
+      "item2": "Almond Milk",
+      "price2": 45,
+      "imgId2": "almondmilk"
+    }
+
+  ]
+}
